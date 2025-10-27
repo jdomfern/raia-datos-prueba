@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # --- Configuración ---
-URL = "https://api.raia.es/api/censoPublico?codigoPostal=41089&especie=gato"
+URL = "https://raia-actualizar.jdomfer870.workers.dev/"
 FILE_PATH = "censoPublico.json"
 
 print("🔄 Descargando datos desde RAIA...")

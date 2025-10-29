@@ -10,7 +10,7 @@ FILE_PATH = "censoPublico.json"
 print("🔄 Descargando datos desde RAIA...")
 
 try:
-    r = requests.get(URL, timeout=20)
+    r = requests.get(URL, timeout=90)
     if r.status_code == 200:
         data = r.json()
 

@@ -4012,23 +4012,6 @@
     "baja": "false"
   },
   {
-    "identificador": "ed2376e7a736031c3f2d522efef96ca612ad803a",
-    "especie": "GATO",
-    "raza": "EUROPEO",
-    "raza2": null,
-    "capa": "BLANCA Y GRIS",
-    "sexo": "HEMBRA",
-    "tamano": null,
-    "fechaNacimiento": "2016-05-12",
-    "fechaIdentificacion": "2016-10-21",
-    "municipio": "MONTEQUINTO (Dos Hermanas)",
-    "provincia": "Sevilla",
-    "codigoPostal": "41089",
-    "codigoIneLocalidad": "038",
-    "codigoIneProvincia": "41",
-    "baja": "false"
-  },
-  {
     "identificador": "0f9c625ea1137af4a943afb4e30c6faa1970a7de",
     "especie": "GATO",
     "raza": "CRUZADO",

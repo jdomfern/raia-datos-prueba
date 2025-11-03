@@ -1,33 +1,49 @@
+# .github/workflows/actualizar_raia.yml
 name: Actualizar datos RAIA
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # Se ejecuta todos los días a las 06:00 UTC
-  workflow_dispatch:      # Permite lanzarlo manualmente desde GitHub Actions
+    - cron: "0 6 * * *"  # 06:00 UTC
+  workflow_dispatch:      # Permite ejecutar manualmente
 
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v4
 
-      - name: Configurar Python
+      - name: Instalar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Instalar dependencias
+      - name: Instalar requests
         run: pip install requests
 
-      - name: Ejecutar script de actualización
-        run: python actualizar_raia.py
+      - name: Descargar datos desde Worker
+        run: |
+          python - <<'EOF'
+          import requests, json
+          URL = "https://raia-actualizar.jdomfer870.workers.dev/"
+          FILE_PATH = "censoPublico.json"
+          r = requests.get(URL, timeout=90)
+          if r.status_code == 200:
+              data = r.json()
+              with open(FILE_PATH, "w", encoding="utf-8") as f:
+                  json.dump(data, f, indent=2, ensure_ascii=False)
+              print(f"✅ Datos actualizados correctamente ({len(data)} registros).")
+          else:
+              raise Exception(f"Error al conectar con Worker: {r.status_code}")
+          EOF
 
-      - name: Subir cambios a GitHub
+      - name: Commit cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add censoPublico.json || true
-          git commit -m "Actualización automática de RAIA" || echo "Sin cambios que subir"
+          git add censoPublico.json
+          git commit -m "Actualización diaria desde Worker" || echo "Sin cambios que subir"
           git push
+
+
+

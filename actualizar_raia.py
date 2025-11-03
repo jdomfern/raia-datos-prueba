@@ -11,7 +11,7 @@ headers = {
 
 print("🔄 Descargando datos desde RAIA...")
 try:
-    r = requests.get(URL, headers=headers, timeout=180)
+    r = requests.get(URL, headers=headers, timeout=200)
     r.raise_for_status()
     data = r.json()
 

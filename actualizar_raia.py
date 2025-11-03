@@ -1,7 +1,7 @@
 import requests
 import json
 
-URL = "https://api.raia.es/api/censoPublico"  # Todos los registros
+URL = "https://raia-actualizar.jdomfer870.workers.dev/"
 FILE_PATH = "censoPublico.json"
 
 headers = {

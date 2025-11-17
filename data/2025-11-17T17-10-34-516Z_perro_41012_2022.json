@@ -1,0 +1,4622 @@
+[
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2207-09-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL TERRIER",
+    "capa": "BLANCO y MARR?N",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PINSCHER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "AZUL ACERO Y DORADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "AMARILLA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO / CORTO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "JABALI",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN BULLY",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-23",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRA Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO/FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCO NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BRACO ALEMAN PELO CORTO",
+    "capa": "JASPEADO MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO DURO",
+    "capa": "JABAL?",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL TERRIER",
+    "capa": "BLANCO-MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO Y MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA/CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "CANELA Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLUE MERLE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BEIGE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE/BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "BLANCA Y MARR?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "Arlekin MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "marr?n",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "RUBIO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "MARR?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL TERRIER",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "ROTTWEILER",
+    "capa": "NEGR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WHIPPET",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "BLANCO-CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA YBLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO DURO",
+    "capa": "JABAL?",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO DURO",
+    "capa": "negro-fuego",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WEIMARANER",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SETTER IRLANDES",
+    "capa": "ROJO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "Canela",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "MELOCOTON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "AMARILLA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BASSET HOUND",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE ENANO",
+    "capa": "APRICOT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO LISO",
+    "capa": "MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE ENANO",
+    "capa": "APRICOT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PARSON RUSELL",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GALGO ESPA?OL",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-19",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "APRICOT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Colorado / Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Verdino / Blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WEIMARANER",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO PATERNINO",
+    "capa": "blanco Chocolate",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Verdino",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Rubio",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO PATERNINO",
+    "capa": "Blanco / Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Blanco / Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Rubio",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-26",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE ENANO",
+    "capa": "ROJO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "BLANCO Y MASCARA TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG FRANCES",
+    "capa": "Tricolor lilac merle",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG FRANCES",
+    "capa": "Tricolor lilac",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel kaninchen",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GALGO ESPA?OL",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "arlequin",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "NEGRA/BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCA Y MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "Tricolor",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCA Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-12-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO-ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "BLANCO Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA MALINOIS",
+    "capa": "MARR?N /NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-12-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PIT BULL TERRIER",
+    "capa": "BLANCA Y CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-26",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WEIMARANER",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN STAFFORDSHIRE TERRIER\t",
+    "capa": "BLANCO Y CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CANELA Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "CREMA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-12-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-12-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCA Y MARR?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-12-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA DE PELO LARGO",
+    "capa": "BLANCO/NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-12-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-12-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SABUESO BAVARO DE MONTA?A",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "AZUL MERLE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCA/CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN BULLY",
+    "capa": "BLUE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-12-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-23",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN BULLY",
+    "capa": "AZUL Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA MALINOIS",
+    "capa": "LOBUNA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "ROJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-02-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "MARRON Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-02-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "NEGRO Y CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-23",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "NEGRO FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "JABALI",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "ROJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-19",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "COCKER SPANIEL",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "BLANCA Y CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WHIPPET",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG FRANCES",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER TERRIER",
+    "capa": "GRIZZLE/BLUE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "BLACO Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "DRAHTHAAR",
+    "capa": "NEGRO ACERO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "tricolor",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-31",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "Negro blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHOW CHOW",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "MARR?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "BIANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO LISO",
+    "capa": "MARR?N",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG INGLES",
+    "capa": "CANELA Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel miniatura",
+    "capa": "negro-fuego",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGR Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "BERRENDO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "APRICOT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "BLANCA PARCHEADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "BLANCA Y OREJA IZQUIERDA PARCHEADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "ALBARICOQUE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "ALBARICOQUE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "MARRON Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "DORADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "Negra (Black)",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "Canela",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO IBICENCO",
+    "capa": "Canela Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "Blanco / Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "Tricolor",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "Blanco / Negro",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "BLANCO-CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-19",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BRACO ALEMAN PELO CORTO",
+    "capa": "MARRON-BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BRACO ALEMAN PELO CORTO",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WEST HIGHLAND WHITE TERRIER",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN STAFFORDSHIRE TERRIER\t",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "Canela y blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-26",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "Arlekin chocolate",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "American Pitbull Terrier",
+    "capa": "LILAC Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "CANELA Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-02-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA MALINOIS",
+    "capa": "PROPIA CLARA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "LOBINA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "Rubio",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO PATERNINO",
+    "capa": "Atigrado / Blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO PATERNINO",
+    "capa": "Blanco / Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO PATERNINO",
+    "capa": "Verdino / Blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "canela y blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ROJO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR AUSTRALIANO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BRACO ALEMAN PELO CORTO",
+    "capa": "BLANCA Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "AMARILLO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "APRICOT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARR?N/NEGRO/MARR?N",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "Bicolor",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "Tricolor",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BIEWER YORKSHIRE",
+    "capa": "BLANCA NEGRA MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SCHNAUZER ENANO",
+    "capa": "NEGRO Y PLATA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "DALMATA",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "WEIMARANER",
+    "capa": "acero",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCO Y MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "CHOCOLATE Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CHOCOLATE FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GALGO ESPA?OL",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-31",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCO CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-19",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "CANELA X BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-11",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "DORADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "HUSKY SIBERIANO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-12-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SAN BERNARDO",
+    "capa": "MARRON -BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCO/CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO DURO",
+    "capa": "NEGRO FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-12-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-12-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "DORADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN ROJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SCHNAUZER ENANO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-12-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "MERLE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "ROJO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-01-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "MERLE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL TERRIER",
+    "capa": "BLACA Y NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "ROJA-BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-11",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-23",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-01-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PIT BULL TERRIER",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-12-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA MALINOIS",
+    "capa": "LEONADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO LARGO",
+    "capa": "NEGRO FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-12-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "canela",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-01-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRA Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "Chocolate",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-02-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BOXER",
+    "capa": "DORADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "APRICOT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-01-21",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "RUBIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "RUBIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR DEL CAUCASO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "BLANCA Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "dorada",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-01-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-05-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "BLANCA  SALPICADA  EN MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "blanco / canela",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "BLANCA  Y CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Podenco maneto",
+    "capa": "COLORADO LUCERO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Podenco maneto",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "arlequin",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN BULLY",
+    "capa": "CANELA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA MALINOIS",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-12-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA/FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "Arlequin chocolate",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "Arlequin Plata",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-05-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-23",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "Blanca",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "JABALI",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG FRANCES",
+    "capa": "fawn y blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GALGO ESPA?OL",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO/FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN STAFFORDSHIRE TERRIER",
+    "capa": "CHOCOLATE Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-19",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "MERLE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Podenco maneto",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "BLANCO Y MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "Arlequin Blue",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "ARLEQU?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GALGO ESPA?OL",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CAVALIER K. CH. SPANIEL",
+    "capa": "BLANCO Y MARR?N",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PINSCHER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-05-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-23",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BIEWER YORKSHIRE",
+    "capa": "BIEWER",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "FOX TERRIER",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-09-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "ROJO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel miniatura",
+    "capa": "ARLEQUIN MERLE CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "BLANCA Y CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SHIH-TZU",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-02-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SCHNAUZER ENANO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-30",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "DOGO ALEMAN",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRA/FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-14",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "HUSKY SIBERIANO",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "DORADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-26",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "ROJO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "TRICOLOR BLANCO NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE",
+    "capa": "ROJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "APRICOT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-19",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "ARLEQUIN",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y MARR?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-01-31",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-01-31",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG INGLES",
+    "capa": "BLANCO MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-22",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "CANELA/BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BICHON MALTES",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-12-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO DURO",
+    "capa": "JABAL?",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR BELGA MALINOIS",
+    "capa": "MARRON  BOQUINEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-01-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG FRANCES",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-01-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "DOGO ARGENTINO",
+    "capa": "blanca",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "canela",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-17",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCO MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "ROJO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-06",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SCHNAUZER ENANO",
+    "capa": "SAL Y PIMIENTA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "MARRON Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-01-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-07",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "CANELO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "JACK RUSSELL",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "MARR?N Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-12-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE MEDIANO",
+    "capa": "DORADO LEONADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel miniatura",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPRINGER SPANIEL INGLES",
+    "capa": "BLANCO Y MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-12",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-02-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "YORKSHIRE TERRIER",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-02-25",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "MARRON-NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PASTOR ALEMAN",
+    "capa": "RUBIO Y NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "Blanco y sable",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-18",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "MASTIN ESPA?OL",
+    "capa": "CANELA-BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "RATONERO BODEGUERO ANDALUZ",
+    "capa": "Negra-Blanca",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-09-27",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "RUBIO ACORBATADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "Teckel de pelo corto",
+    "capa": "Jabali",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "Tricolor",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BEAGLE",
+    "capa": "Tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "SPITZ ALEM?N ( POMERANIA )",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "DOGO ARGENTINO",
+    "capa": "BLANCO, NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "DORADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BORDER COLLIE",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-16",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO/ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-04",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "Canela",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-02-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN STAFFORDSHIRE TERRIER",
+    "capa": "verdina",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO ANDALUZ",
+    "capa": "Canela Blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-05-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "colorado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-05",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Blanco / Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-03",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "rojo",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-08-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AFFENPINCHER",
+    "capa": "NEGRO-FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-26",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-01-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "AMERICAN STAFFORDSHIRE TERRIER",
+    "capa": "Atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-02",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-01-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "ALANO",
+    "capa": "Marron",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-08",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela Blanco",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-15",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PODENCO",
+    "capa": "Canela",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL DE PELO DURO",
+    "capa": "NEGRO FUEGO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-09",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "PERRO DE AGUAS ESPA?OL",
+    "capa": "CHOCOLATE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-20",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "GOLDEN RETRIEVER",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-07-10",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "BULLDOG FRANCES",
+    "capa": "FAWN",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-26",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CRUZADO",
+    "capa": "CHOCOLATE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-08-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "LABRADOR RETRIEVER",
+    "capa": "CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-28",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CANICHE TOY",
+    "capa": "rojizo",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-29",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "EPAGNEUL BRETON",
+    "capa": "RUBIO Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-07-13",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "TECKEL",
+    "capa": "CHOCOLATE Y FUEGO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-08-24",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "PERRO",
+    "raza": "CHIHUAHUA",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-01",
+    "codigoPostal": "41012",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  }
+]

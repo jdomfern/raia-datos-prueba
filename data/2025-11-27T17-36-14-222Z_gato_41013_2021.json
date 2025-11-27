@@ -1,0 +1,7122 @@
+[
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "GRIS Y CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO/CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH SHORTHAIR",
+    "capa": "TORTUGA AZUL",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH LONGHAIR",
+    "capa": "BICOLOR ROJO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y CENIZA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH SHORTHAIR",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "RUBIO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO/ BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS/BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-01-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-02-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "RED TABBY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "RED POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y RUBIO ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO-BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO-ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO - BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-05-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-05-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA EN GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SIAMES",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA EN GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ANARANJADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-06-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ANARANJADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-06-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "blanca y amarilla atigrada",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA-BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "AZUL RUSO",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "blanco y negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-07-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-09-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Carey",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Atigrada",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO-GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-09-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "SEAL POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-09-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-09-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Negra y Blanca",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-06-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "tipica",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-11-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "TABBY POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-09-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA/BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "rubio/blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BROWN TABBY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CANELA-MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-05-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BICOLOR AZUL",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "TIPICA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BROWN TABBY- BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "naranja blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-11-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA EN GRIS Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-10-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA/NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH LONGHAIR",
+    "capa": "GRIS Y BLACO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-12-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA/GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "Propia",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "SIAM?S",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-12-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "Neva Masquerade",
+    "capa": "NEM N21 SEAL TABBY POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "CHOCOLAT POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA-NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Negro y blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "SEAL POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado gris",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA/ NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS-BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "negra y blanca",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-08-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Atigrado marr?n",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRAGO CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrada y blanca",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ORANGE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-02-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AZUL",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Gris",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "negra",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-09-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EXOTICO",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrada y blanca",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "van brown tabby",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-12-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AZUL",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO, BLANCO Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Rubio",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TABBY/BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "BEI-MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TABBY/BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA, GRIS ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-11-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "crema y chocolate",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ROJO TABBY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CREMA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS- ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "chocolate y crema",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ROMANA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "SEAL POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "AZUL RUSO",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "BICOLOR NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-03-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA/CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-03-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS/BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-21",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y RUBIO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Crema",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Carey",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "RUBIO Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado en calabaza",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO AMARILLO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "Blanco y gris atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Blanco y rubio",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "naranja atigrada",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-07-21",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "HIGADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "negro y blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BICOLOR NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "Rubio y blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-02-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BICOLOR NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "negra",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-01-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "blue taby",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO ANARANJADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO-BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-09-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "carey",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "AZUL RUSO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA-BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Gris blanco atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-06-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "negra",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATRIGADO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ROJO TABBY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-06-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR- GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "gris atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "MARRON Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "BLUE PINK",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "TIPICA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SEAL POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-10-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-05-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-12-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SEAL POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SEAL POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-01-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Atigrado Marr?n",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "BLUE POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO DORADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-01-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado gris",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO/BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA MARRON",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-10-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA GRIS Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "rubio blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-02-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "canela",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-11-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AMARILLO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "RUBIO ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "negra y blanca",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-11-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-08-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "rubia",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-06-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "gris atigrada",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "Negra",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-12-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH SHORTHAIR",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-05-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-07-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-01-21",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "Gato mont?s euroasi?tico",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "marron y blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA/GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-06-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-02-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "BROWN SPOTTED",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "AZUL GRISACEO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-01-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-05-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-11-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA RUBIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "RAGDOLL",
+    "capa": "BLUE POINT BICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-21",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "CREMA/MARR?N",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO-BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA/BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "MARRON Y CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "BENGALI",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-11",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Atigrada gris",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO-BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-04-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "blanco y negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "LA PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "Mau arabe",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-06-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TABBY ROJO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "MARRON",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-09-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADA Y BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA-BEIGE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-05-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO AMARILLO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-12-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "color point",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y CANELA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA DE SIAMES",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH SHORTHAIR",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "ANGORA TURCO",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-10-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "NEGRO Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-11-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO/NEGRO/NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "TIPICA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO/NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATRIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "LILA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SEAL POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH SHORTHAIR",
+    "capa": "AZUL",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "AZUL",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-01-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SIAMES (PROPIA)",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Blanca y negra",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "CAFE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Negro-blanco",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Blanco-marr?n",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "EUROPEO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-21",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TABBY POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "AZUL RUSO",
+    "capa": "AZUL",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-09-29",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-07-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SPHYNX",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-14",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "BROWN SPOTTED TABBY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-01-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO GRIS Y CREMA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "BLANCA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-08-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "blanco y crema",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "RED POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-12-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "RUBIO ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO/NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-10-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "AZUL RUSO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO-NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2021-04-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-01-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-01-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-07-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-01-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "tabby",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-05-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "GRIS ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-09-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Negro",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-31",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-21",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TABBY POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-11-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "GRIS CLARO Y OSCURO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-02-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADA EN GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-08-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "PERSA",
+    "capa": "CREMA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-01-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-06-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BICOLOR NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "SEAL POINT",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-04-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-28",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-04-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "RED POINT",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-08-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-01-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NARANJA BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-12-16",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BICOLOR",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-02-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "RUBIO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "atigrado",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA/BLANCO ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ANARANJADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-07-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-09-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Atigrado naranja",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-07-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2023-03-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "TABBY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-12-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2022-05-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2021-11-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "SPOTTED",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-02-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA CAREY",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-08-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-20",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-13",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA/NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-04",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2023-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-18",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-07-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "CANELA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Tricolor",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-02-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA Y NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCA/NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-22",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-03-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-17",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "AZUL RUSO",
+    "capa": "BLUE",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "TABBY GRIS",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-06-27",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2022-07-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "RAYADA Y ATIGRADA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-07-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BRITISH LONGHAIR",
+    "capa": "GRIS",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-09",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y MARR?N",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "BENGALI",
+    "capa": "BROWN SPOTTED TABBY",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-09-07",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "BLANCO Y NEGRO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-04-10",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-03-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "CAFE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2024-11-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "carey",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-02",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "NEGRA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-23",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-04-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-24",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "Atigrada",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-07-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "ATIGRADO",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "CRUZADO",
+    "capa": "carey",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-04-30",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "crema",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-05-15",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRA Y BLANCA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-09-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS- BLANCO ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-08",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "SIAMES",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-05-19",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y NARANJA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-02-25",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NEGRO Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2024-10-01",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "CAFE",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-11-06",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "SIAMES",
+    "capa": "PROPIA",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-26",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "ATIGRADO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-06-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "TRICOLOR",
+    "sexo": "HEMBRA",
+    "fechaNacimiento": "2025-06-05",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "NARANJA",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-07-12",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  },
+  {
+    "especie": "GATO",
+    "raza": "EUROPEO",
+    "capa": "GRIS Y BLANCO",
+    "sexo": "MACHO",
+    "fechaNacimiento": "2025-03-03",
+    "codigoPostal": "41013",
+    "municipio": "SEVILLA",
+    "provincia": "Sevilla"
+  }
+]
